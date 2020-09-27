@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![João's github stats](https://github-readme-stats.vercel.app/api?username=JNuno007)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **JNuno007/JNuno007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
